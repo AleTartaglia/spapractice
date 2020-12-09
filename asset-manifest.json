@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/spapractice/static/js/main.ea17e0f1.chunk.js",
+    "main.js.map": "/spapractice/static/js/main.ea17e0f1.chunk.js.map",
+    "runtime-main.js": "/spapractice/static/js/runtime-main.a38650ea.js",
+    "runtime-main.js.map": "/spapractice/static/js/runtime-main.a38650ea.js.map",
+    "static/js/2.ac539700.chunk.js": "/spapractice/static/js/2.ac539700.chunk.js",
+    "static/js/2.ac539700.chunk.js.map": "/spapractice/static/js/2.ac539700.chunk.js.map",
+    "index.html": "/spapractice/index.html",
+    "static/js/2.ac539700.chunk.js.LICENSE.txt": "/spapractice/static/js/2.ac539700.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/spapractice/static/media/profile.8a701d40.jpg",
+    "static/media/svg1.svg": "/spapractice/static/media/svg1.c9c88a21.svg",
+    "static/media/svg2.svg": "/spapractice/static/media/svg2.882a2cd5.svg",
+    "static/media/svg3.svg": "/spapractice/static/media/svg3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a38650ea.js",
+    "static/js/2.ac539700.chunk.js",
+    "static/js/main.ea17e0f1.chunk.js"
+  ]
+}
